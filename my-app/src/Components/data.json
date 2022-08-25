@@ -1,0 +1,36 @@
+[
+    { "Customer":"Anu",
+      "Location":"Tanur",
+      "invoiceId": 1,
+      "invoiceType": 1,
+      "month": "ss",
+      "Year": "",
+      "date":"",
+      "invoiceAmount":"",
+      "viewAnnexure":"",
+      "viewInvoice":"",
+      "statusAddedon":""
+    },
+    {
+        "invoiceId": 1,
+        "invoiceType": 1,
+        "month": "",
+        "Year": "",
+        "date":"",
+        "invoiceAmount":"",
+        "viewAnnexure":"",
+        "viewInvoice":"",
+        "statusAddedon":""
+    },
+    {
+        "invoiceId": 1,
+        "invoiceType": 1,
+        "month": "",
+        "Year": "",
+        "date":"",
+        "invoiceAmount":"",
+        "viewAnnexure":"",
+        "viewInvoice":"",
+        "statusAddedon":""
+    }
+]
